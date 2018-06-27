@@ -1,0 +1,1001 @@
+City	Country
+Arendal	Norway
+Kolno	Poland
+Chá»£ Chu	Vietnam
+Piraju	Brazil
+Lalapanzi	Zimbabwe
+Marogong	Philippines
+Buenavista	Mexico
+Two Hills	Canada
+Daxing	China
+GÃ©rakas	Greece
+Beppu	Japan
+Burgeo	Canada
+Allacapan	Philippines
+Saint-Quentin-Fallavier	France
+KÄleke Mandi	Pakistan
+Wuxue Shi	China
+Zhouyuan	China
+Kedungsinggil	Indonesia
+Saint-Ã‰tienne	France
+Bentengjawa	Indonesia
+Novoaleksandrovsk	Russia
+Oruro	Bolivia
+Taipingying	China
+Mizhhirâ€™ya	Ukraine
+KÃ¸benhavn	Denmark
+Sindangheula	Indonesia
+Meijiang	China
+Kuala Bintang	Indonesia
+Ceres	South Africa
+Mijiang	China
+Xitou	China
+Dalu	China
+San Francisco	Philippines
+Ngarus	Indonesia
+Sheregesh	Russia
+Calizo	Philippines
+Longgao	China
+Bourges	France
+Wonorejo	Indonesia
+UruzgÄn	Afghanistan
+TuchÃ³w	Poland
+Bindang	Indonesia
+Ulster Spring	Jamaica
+Maukaro	Indonesia
+PrÃ³choma	Greece
+KaniÃ³w	Poland
+Ebu	China
+Fonte da Aldeia	Portugal
+Maslog	Philippines
+Croix	France
+Jurovski Dol	Slovenia
+SubaykhÄn	Syria
+Lop	China
+AsunciÃ³n	Paraguay
+Palmitas	Uruguay
+Sihai	China
+Massy	France
+Druzhny	Belarus
+Riangbaring	Indonesia
+Xushangqiao	China
+Sere	Indonesia
+Weiting	China
+Nong Bun Nak	Thailand
+Gelsenkirchen	Germany
+San Salvador	El Salvador
+Levski	Bulgaria
+Tarlac City	Philippines
+Pogorzyce	Poland
+Soacha	Colombia
+Jinshan	China
+Semiluki	Russia
+Mojokerto	Indonesia
+Chicago	United States
+Budapest	Hungary
+DÄ«la	Ethiopia
+Yongxing	China
+Letpandan	Myanmar
+Puolanka	Finland
+ÅžÄnÅ«r	Palestinian Territory
+Komorniki	Poland
+Livorno	Italy
+BorÅ«jerd	Iran
+Tallahassee	United States
+Munturkaju	Indonesia
+Maao	Philippines
+Laowobao	China
+Estacion	Philippines
+Dobryanka	Ukraine
+Calamba	Philippines
+SomiÃ©	Cameroon
+Kaolack	Senegal
+Ayo	Peru
+Sotteville-lÃ¨s-Rouen	France
+Batanovtsi	Bulgaria
+Mambi	Indonesia
+Ponikiew	Poland
+Jinqiao	China
+Gabahan	Indonesia
+Xiyuan	China
+Nart	Mongolia
+Laojunpo	China
+Daru Rilwan	Gambia
+LÃ©fka	Cyprus
+Kongjiang	China
+Assiniboia	Canada
+Lichinga	Mozambique
+Del Pilar	Philippines
+WrocÅ‚aw	Poland
+Jardoeira	Portugal
+Novoselec	Croatia
+San Pedro Jocopilas	Guatemala
+Beni Khiar	Tunisia
+Dasuk	Indonesia
+Giesteira	Portugal
+Mashui	China
+Jiabeiyan	China
+Huajialing	China
+Taihe	China
+WÄ™gry	Poland
+Monasterevin	Ireland
+San JerÃ³nimo	Peru
+Pau	France
+Dalam	Indonesia
+Kambar	Pakistan
+Kathu	Thailand
+Douala	Cameroon
+Yidao	China
+SÃ£o JosÃ© de Ribamar	Brazil
+Kyankwanzi	Uganda
+Banqiao	China
+Tarnowiec	Poland
+Hetang	China
+Alvand	Iran
+Camino Real	Mexico
+Biasong	Philippines
+Mugango	Tanzania
+MaipÃº	Argentina
+Gumuk Tengah	Indonesia
+Mulhouse	France
+Saue	Estonia
+Huruta	Ethiopia
+Santiago de Cuba	Cuba
+Simpang Ulim	Indonesia
+Medianeira	Brazil
+Puyang	China
+Laveiras	Portugal
+RÃ­o Colorado	Argentina
+Shuibian	China
+Riosucio	Colombia
+Stratford	Canada
+Shuangbaiyang	China
+Chongjin	North Korea
+Yuyue	China
+Lucapa	Angola
+Fagersta	Sweden
+FÅ«man	Iran
+HÄ«rna	Ethiopia
+Hangchuan	China
+Cimuncang	Indonesia
+Tianjiazhuang	China
+Dongqiao	China
+BiaÅ‚a	Poland
+RibeirÃ£o	Portugal
+NÃ©a KaryÃ¡	Greece
+Tangkeng	China
+Mercier	Canada
+Casuguran	Philippines
+Wenshang	China
+Lengor	Indonesia
+LÃ©khaio	Greece
+WÄling	Nepal
+Lingbei	China
+Mufushan	China
+Yinping	China
+Ballyboden	Ireland
+Xianyan	China
+Cruz	Portugal
+Bunigeulis	Indonesia
+Pâ€™yÅngsÅng	North Korea
+Kalahang	Indonesia
+CaculÃ©	Brazil
+Kuala Lumpur	Malaysia
+Segovia	Colombia
+Qiandong	China
+Bajos de Haina	Dominican Republic
+Aveleda	Portugal
+Silvares	Portugal
+Khanabad	Afghanistan
+San Antonio	Mexico
+Gislaved	Sweden
+Tongyangdao	China
+Komi	Indonesia
+Las Palmas	Panama
+Cagliari	Italy
+AlÃ¨s	France
+Lojigawaran	Indonesia
+Lucas	Brazil
+Cheban	China
+Celica	Ecuador
+Å ventoji	Lithuania
+Nowy SÄ…cz	Poland
+Charqueadas	Brazil
+Rustenburg	South Africa
+Louiseville	Canada
+Koretsâ€™	Ukraine
+Arzakan	Armenia
+Nisporeni	Moldova
+Dniprodzerzhynsâ€™k	Ukraine
+Cafe	Philippines
+Cerro CorÃ¡	Argentina
+Shejiang	China
+Bayaguana	Dominican Republic
+San Jacinto	Philippines
+Santa Fe de la Vera Cruz	Argentina
+SÃ£o Paio de GramaÃ§os	Portugal
+Pau	France
+Poja	Indonesia
+Asemanis	Indonesia
+Shenavan	Armenia
+Domaradz	Poland
+Nailung	China
+Lapu-Lapu City	Philippines
+Las Palomas	Paraguay
+El Fasher	Sudan
+Nanyulinxi	China
+Turki	Russia
+Saidpur	Bangladesh
+KwaMbonambi	South Africa
+Pyshchug	Russia
+Itabirito	Brazil
+Longde Chengguanzhen	China
+Eydhafushi	Maldives
+Dongxi	China
+SuraÅ¼	Poland
+Vila Nova	Portugal
+Mariestad	Sweden
+Pirca	Peru
+Fresno	United States
+Liugong	China
+Taoyuan	China
+Rudong	China
+La Celia	Colombia
+OcaÃ±a	Colombia
+Tsimlyansk	Russia
+Mamonit	Philippines
+Montreuil	France
+AcacÃ­as	Colombia
+Bula	Philippines
+Koktokay	China
+Agoncillo	Philippines
+Polyarnyy	Russia
+Boca Chica	Dominican Republic
+NÃ ng Mau	Vietnam
+Fada N'gourma	Burkina Faso
+Feni	Bangladesh
+Chai Badan	Thailand
+Carig	Philippines
+Horton	United Kingdom
+Sumberrojokrajan	Indonesia
+Toyama-shi	Japan
+Hutang	China
+CalvÃ£o	Portugal
+Shubenka	Russia
+Gary	United States
+Ronda	Philippines
+NÃ©os OropÃ³s	Greece
+Cambanugoy	Philippines
+Sabae	Japan
+Å½lutice	Czech Republic
+Ozerki	Russia
+Jiyang	China
+Krajan Menggare	Indonesia
+Ibotirama	Brazil
+Jiantiao	China
+VelkÃ¡ BystÅ™ice	Czech Republic
+La UniÃ³n	Venezuela
+BorÃ¥s	Sweden
+Banyuurip	Indonesia
+Puerto Parra	Colombia
+Wattegama	Sri Lanka
+IkÅ¡Ä·ile	Latvia
+Artemisa	Cuba
+Sergio OsmeÃ±a Sr	Philippines
+Roubaix	France
+Wangkung	Indonesia
+Chichibu	Japan
+RosÃ¡rio do Sul	Brazil
+Budapest	Hungary
+Lyubomlâ€™	Ukraine
+Boac	Philippines
+Gaowu	China
+Al MiqdÄdÄ«yah	Iraq
+Burgersfort	South Africa
+New York City	United States
+Hualian	Taiwan
+Illintsi	Ukraine
+Wangfu	China
+Balingueo	Philippines
+Niigata-shi	Japan
+Giyon	Ethiopia
+Klapagada	Indonesia
+Ballitoville	South Africa
+Puente Nacional	Colombia
+Creil	France
+Tours	France
+L'Ã‰piphanie	Canada
+VÃ¤llingby	Sweden
+Tatrang	China
+Severouralâ€™sk	Russia
+Delod Pangkung	Indonesia
+Kibre Mengist	Ethiopia
+Salento	Colombia
+Puerto Colombia	Colombia
+OrlÃ©ans	France
+Frederiksberg	Denmark
+Pengfang	China
+Xufu	China
+Waru Selatan	Indonesia
+Mezinovskiy	Russia
+Maluanluan	Philippines
+Jingmen	China
+Gaosheng	China
+VÃ¤sterÃ¥s	Sweden
+Windsor	Canada
+WilkÃ³w	Poland
+Dongpu	China
+ThÃ nh Phá»‘ Láº¡ng SÆ¡n	Vietnam
+SÃ¶derhamn	Sweden
+Orekhovo-Borisovo	Russia
+Oslo	Norway
+ShashemenÄ“	Ethiopia
+ZubÅ«bah	Palestinian Territory
+Nzega	Tanzania
+Tallahassee	United States
+NovÃ½ MalÃ­n	Czech Republic
+Ostravice	Czech Republic
+Roshchino	Russia
+San Antonio	Mexico
+JaguarÃ£o	Brazil
+Gongpo	China
+Las Lomas	Panama
+'s-Hertogenbosch	Netherlands
+Jiangyin	China
+Tarbes	France
+Parachinar	Pakistan
+Redakodi	Indonesia
+Taobei	China
+San Nicolas	Philippines
+Grand Rapids	United States
+Cockburn Town	Turks and Caicos Islands
+La Paz	Colombia
+Ungus-Ungus	Philippines
+Asykata	Kazakhstan
+Devin	Bulgaria
+QuwaysinÄ	Egypt
+Almafuerte	Argentina
+Hecheng	China
+Chengbei	China
+Lapa do Lobo	Portugal
+LÃ©khaio	Greece
+Shaxi	China
+BaÄ‡kowice	Poland
+Yangping	China
+Selopuro	Indonesia
+Da Nang	Vietnam
+Burgos	Philippines
+Sidem	Indonesia
+Tyretâ€™ Pervaya	Russia
+Zubin Potok	Kosovo
+Donskoye	Russia
+KhalkhÄl	Iran
+Xinquan	China
+Jember	Indonesia
+Potelych	Ukraine
+Khoyniki	Belarus
+Nianba	China
+Blagnac	France
+Syracuse	United States
+Quellouno	Peru
+Panggungsari	Indonesia
+Kiuteta	Indonesia
+Chipata	Zambia
+Zhantang	China
+Baima	China
+Licheng	China
+Longtan	China
+Chernigovka	Russia
+Chumphon	Thailand
+Jati	Indonesia
+Jayaraga Kaler	Indonesia
+Margen	Philippines
+Picoto	Portugal
+KaniÃ³w	Poland
+Huazhaizi	China
+Hearst	Canada
+Kenamoen	Indonesia
+Tuguanpu	China
+Dasuhe	China
+RÄjbirÄj	Nepal
+Bangekdewa	Indonesia
+Kungshamn	Sweden
+Bandaragung	Indonesia
+Cibunut	Indonesia
+Fort Beaufort	South Africa
+Ueno	Japan
+Kikinda	Serbia
+Weru	Indonesia
+Raleigh	United States
+Gialo	Libya
+Priobâ€™ye	Russia
+Pavlovsk	Russia
+Buliu	China
+NestÃ³rio	Greece
+Talaibon	Philippines
+Huainan	China
+Vanimo	Papua New Guinea
+Cimaragas	Indonesia
+La MontaÃ±ita	Colombia
+Odawara	Japan
+Xiangyang	China
+Damao	China
+Sohag	Egypt
+Thala	Tunisia
+Al Fashn	Egypt
+Chivilcoy	Argentina
+Shuiquan	China
+GostyÅ„	Poland
+Norsborg	Sweden
+KrÃ´ng Kmar	Vietnam
+Huayan	China
+Cavinti	Philippines
+Balinad	Philippines
+Jisegumen	China
+Ogden	United States
+Toupi	China
+LinkÃ¶ping	Sweden
+Suwatu	Indonesia
+Efeng	China
+Ambohitrolomahitsy	Madagascar
+Svetlyy	Russia
+Palana	Russia
+PropriÃ¡	Brazil
+Creil	France
+PobÃ©	Benin
+Grand Bank	Canada
+Retkovci	Croatia
+CandelÃ¡ria	Brazil
+Larangan	Indonesia
+Krivaja	Serbia
+Xincheng	China
+El CaÃ±o	Panama
+Heilbronn	Germany
+BiÃªn HÃ²a	Vietnam
+Giesteira	Portugal
+Petrovskaya	Russia
+Al QuÅ£ayfah	Syria
+Fuyu	China
+Bacacay	Philippines
+Carvalhinho	Portugal
+Tagta	Turkmenistan
+Maubara	East Timor
+Bhairab BÄzÄr	Bangladesh
+Sundawenang	Indonesia
+Quarteira	Portugal
+Saint-Ã‰tienne-du-Rouvray	France
+Ganyi	China
+Bolo	Philippines
+Nelazskoye	Russia
+Paris 05	France
+Oyo	Nigeria
+Glinka	Russia
+Numata	Japan
+Mliwang	Indonesia
+Kabare	Indonesia
+Dioila	Mali
+Biga	Philippines
+Al JÄ«b	Palestinian Territory
+Dois Vizinhos	Brazil
+Mapinrea	Indonesia
+BiÌ€nh Minh	Vietnam
+Capulaan	Philippines
+Velille	Peru
+Xinwu	China
+Sembungin	Indonesia
+Sarongan	Indonesia
+Danao	Philippines
+Kutamandarakan	Indonesia
+Zhoukou	China
+Santa Lucia	Philippines
+Miraflores	Portugal
+Cimanglid	Indonesia
+ChrzanÃ³w	Poland
+Bull Savanna	Jamaica
+Rumburk	Czech Republic
+Synevyr	Ukraine
+LubieÅ„	Poland
+Vera	Argentina
+Cangshi	China
+Tianta	China
+Lagoa do Itaenga	Brazil
+Tenggong	Indonesia
+Tohautu	French Polynesia
+Smiths Falls	Canada
+Wunat	Indonesia
+Laocheng	China
+Wschowa	Poland
+Yijiang	China
+Qibu	China
+Virginia	South Africa
+Sabang	Philippines
+Datartua	Indonesia
+Karangtengah	Indonesia
+Sironko	Uganda
+Loo	Estonia
+Magisterial	Mexico
+Lacolle	Canada
+Luzhou	China
+Stockholm	Sweden
+Nansheng	China
+SkellefteÃ¥	Sweden
+LimbuÅ¡	Slovenia
+Curvelo	Brazil
+Altavista	Mexico
+Kotri	Pakistan
+Rakiv Lis	Ukraine
+Tajerouine	Tunisia
+Talugtug	Philippines
+Tlatah	Indonesia
+Berlin	Germany
+SÃ£o LuÃ­s do Quitunde	Brazil
+Rasi Salai	Thailand
+Yangping	China
+Inanwatan	Indonesia
+Abomsa	Ethiopia
+DÅ‚ugosiodÅ‚o	Poland
+KuÅ¡tilj	Serbia
+Varge Mondar	Portugal
+Gedangan	Indonesia
+Xijiang	China
+Banjar Sambangan	Indonesia
+Maubin	Myanmar
+Beiling	China
+Puro Pinget	Philippines
+Sanxixiang	China
+Tuqiao	China
+Panganiban	Philippines
+RoliÃ§a	Portugal
+Kungshamn	Sweden
+Ãguas de LindÃ³ia	Brazil
+Johnson City	United States
+Wengtian	China
+Xiejiaya	China
+Sarrebourg	France
+Taganskiy	Russia
+BÄƒlÅ£i	Moldova
+Letuyi	China
+Ar Rujum	Yemen
+Lingdong	China
+Karlskrona	Sweden
+Ramat Yishay	Israel
+Nuevo ChamelecÃ³n	Honduras
+Faya-Largeau	Chad
+Qiagai	China
+Puerto Eldorado	Argentina
+Edsbyn	Sweden
+Annino	Russia
+Quinta	Portugal
+Rongwo	China
+Kabare	Democratic Republic of the Congo
+Gorelovo	Russia
+Bhadrapur	Nepal
+ChambÃ©ry	France
+Bojong	Indonesia
+Yaojiaji	China
+Longmen	China
+Chatou	China
+Ribeiro	Portugal
+Hastings	New Zealand
+Bangkalan	Indonesia
+Maoyang	China
+Yanshou	China
+Mamedkala	Russia
+Handegate	China
+Mansa	Zambia
+Suhong	China
+Huashi	China
+San Roque	Philippines
+Ojo de Agua	Mexico
+Nykvarn	Sweden
+Kitahama	Japan
+Muaralabuh	Indonesia
+Yelyzavethradka	Ukraine
+Sharga	Mongolia
+Shijiazhuang	China
+Manique de Baixo	Portugal
+Kaiyun	China
+Montecillo	Philippines
+San Jose	Mexico
+Pecka	Czech Republic
+Conde	Brazil
+Cinagrog Girang	Indonesia
+Kurba	Russia
+Ogurugu	Nigeria
+Skore	Albania
+Coasa	Peru
+Halong	Indonesia
+Titab	Indonesia
+Bangkok	Thailand
+Had Kourt	Morocco
+Strasbourg	France
+Datangzhuang	China
+Rokycany	Czech Republic
+Jabat	Marshall Islands
+Jinbo	China
+Ngujung	Indonesia
+Tabia	Morocco
+Mammari	Cyprus
+Giesteira	Portugal
+Sumberpinang Satu	Indonesia
+MossorÃ³	Brazil
+Bagneux	France
+Lavras	Brazil
+Thá»‹ Tráº¥n YÃªn Tháº¿	Vietnam
+Ciego de Ãvila	Cuba
+Hasan	Albania
+Vinica	Croatia
+Jindui	China
+Yongdong	China
+Chifeng	China
+Ichihara	Japan
+AraÃ§uaÃ­	Brazil
+Dobryatino	Russia
+Qiaolin	China
+Murom	Russia
+Waishan	China
+Shazikou	China
+Val-de-Reuil	France
+Bichena	Ethiopia
+Jiagao	China
+Cuogang	China
+Shiroi	Japan
+Fenoarivo Atsinanana	Madagascar
+Nanlu	China
+Muarabadak	Indonesia
+Paris 04	France
+Doumen	China
+Olympia	United States
+Jiazhuyuan	China
+Roma	Italy
+Pampierstad	South Africa
+Volodarsâ€™k-Volynsâ€™kyy	Ukraine
+Leran	Indonesia
+Kristinehamn	Sweden
+PropriÃ¡	Brazil
+Bua Yai	Thailand
+Viso	Portugal
+Ranambeling	Indonesia
+Xicheng	China
+Sumberkindagan	Indonesia
+Jombang	Indonesia
+Breda	Netherlands
+Zhaotong	China
+Rtishchevo	Russia
+MarÄelji	Croatia
+Houston	United States
+San Rafael	Peru
+NizwÃ¡	Oman
+ZbÄ…szynek	Poland
+Xushan	China
+Cache Creek	Canada
+HadÅ¾iÄ‡i	Bosnia and Herzegovina
+Lyasny	Belarus
+Normandin	Canada
+Gardawice	Poland
+Longquan	China
+SÅ‚upno	Poland
+Zhongling	China
+Canomoy	Philippines
+Kolape	Philippines
+Straszydle	Poland
+Mapou	Mauritius
+Jerez	Guatemala
+NovÃ½ MalÃ­n	Czech Republic
+Borovan	Bulgaria
+Pregradnoye	Russia
+Jinping	China
+Xuefu	China
+Jakubowice Murowane	Poland
+Khlong Toei	Thailand
+Richmond	United States
+Guaimaca	Honduras
+Bondowoso	Indonesia
+Kaminokawa	Japan
+San Vicente	Philippines
+Prata	Brazil
+Zhongshanmen	China
+Black River	Jamaica
+Ouyang	China
+Vigo	Philippines
+Carcavelos	Portugal
+Monguno	Nigeria
+Changhao	China
+Amersfoort	Netherlands
+Lyon	France
+Kuala Lumpur	Malaysia
+Bultfontein	South Africa
+Komga	South Africa
+Belo sur Tsiribihina	Madagascar
+Ourtzagh	Morocco
+Angers	France
+VukatanÃ«	Albania
+Ganxi	China
+Zhuping	China
+Ailuk	Marshall Islands
+Muyuka	Cameroon
+Bakersfield	United States
+Nowe Warpno	Poland
+Huntington	United States
+Wolometang	Indonesia
+Dongchengyuan	China
+Qiaoshi	China
+Bunog	Philippines
+Kangar	Malaysia
+Villa Allende	Argentina
+Youfang	China
+Veles	Macedonia
+Parikkala	Finland
+Encontrados	Venezuela
+Lansing	United States
+Yongqin	China
+Sambogunung	Indonesia
+Saverne	France
+Almada	Portugal
+Banatski Dvor	Serbia
+JoÃ£o Pessoa	Brazil
+Guarapari	Brazil
+Xialaxiu	China
+Kidodi	Tanzania
+Pristina	Kosovo
+MÄ¡arr	Malta
+Wang Nam Yen	Thailand
+Srubec	Czech Republic
+Yunmeng Chengguanzhen	China
+Taoyuan	China
+Sumberpitu	Indonesia
+Duozhu	China
+Lijia	China
+Daâ€™an	China
+Halimaung Jaya (F-3)	Indonesia
+San JerÃ³nimo	Peru
+Canala	New Caledonia
+Bungo-Takada-shi	Japan
+Minh LÆ°Æ¡ng	Vietnam
+Mae Wang	Thailand
+Mocho	Jamaica
+Kiaranonggeng	Indonesia
+Khairpur	Pakistan
+Kengkou	China
+Kalasin	Thailand
+BorÃ¥s	Sweden
+Shuitou	China
+Neuilly-sur-Marne	France
+Manhush	Ukraine
+Xiagong	China
+Jikamshi	Nigeria
+Tanza	Philippines
+Sangallaya	Peru
+Chancay	Peru
+Enschede	Netherlands
+Huangcai	China
+Shitang	China
+Huskvarna	Sweden
+General Conesa	Argentina
+Karangtalun	Indonesia
+Ãno SÃ½ros	Greece
+ZÃ¡kynthos	Greece
+NÅ«bÄ	Palestinian Territory
+Xinquan	China
+Boyle	Ireland
+Bualu	Indonesia
+Gaoqiao	China
+Sharga	Mongolia
+Barra de Carrasco	Uruguay
+Tecka	Argentina
+Kafr BaÅ£nÄ	Syria
+Itaperuna	Brazil
+Sundsvall	Sweden
+Saxin	China
+Siayan	Philippines
+Zakamensk	Russia
+Gobernador Ingeniero ValentÃ­n Virasoro	Argentina
+Kota Kinabalu	Malaysia
+Syrskoye	Russia
+Pinheiros	Brazil
+Iwkowa	Poland
+Charleston	United States
+GhÄr al Milá¸©	Tunisia
+Leles	Indonesia
+BelkÃ¶l	Kazakhstan
+Tucheng	China
+Kenitra	Morocco
+Strelka	Russia
+Al Wajh	Saudi Arabia
+Batudulang	Indonesia
+Ãguia Branca	Brazil
+Indaial	Brazil
+HÆ°Æ¡ng SÆ¡n	Vietnam
+Longmiao	China
+Casal de SÃ£o JoÃ£o	Portugal
+Brampton	United Kingdom
+Gamawa	Nigeria
+Pangkalan	Indonesia
+Hetian	China
+PrzyborÃ³w	Poland
+Stockholm	Sweden
+MaracanaÃº	Brazil
+Baquero Norte	Philippines
+Oslo	Norway
+Banjar Tengah	Indonesia
+Horad Barysaw	Belarus
+Turbaco	Colombia
+Huansheng	China
+Kushk	Afghanistan
+Ban Kruat	Thailand
+Rosh Pinna	Israel
+Boluo	China
+Abuochiche	Nigeria
+Futuroscope	France
+Fenglu	China
+Bualu	Indonesia
+Krajan Kedungsalam	Indonesia
+Ilagan	Philippines
+Atlasovo	Russia
+ProÃ¡stion	Greece
+Dawan	China
+Ciorescu	Moldova
+VÃ¤xjÃ¶	Sweden
+Quinuabamba	Peru
+Khanu Woralaksaburi	Thailand
+Huntington	United States
+Frutal	Brazil
+RublÃ«vo	Russia
+Victoria Falls	Zimbabwe
+Busalangga	Indonesia
+Shangjiangxu	China
+Mariano Moreno	Argentina
+Burirao	Philippines
+Shiliting	China
+Long XuyÃªn	Vietnam
+Jiulonggang	China
+Youhua	China
+Santa Lucia	Philippines
+Gambaru	Nigeria
+Buckland	United Kingdom
+Pelaya	Colombia
+Kalodu	Indonesia
+Iperu	Nigeria
+Chicago	United States
+Las Cruces	United States
+Nungga	Indonesia
+Pedra	Portugal
+Guilhabreu	Portugal
+Butel	Macedonia
+Al AbyÄr	Libya
+Knysna	South Africa
+Mucllo	Peru
+Ossora	Russia
+PrzewÃ³z	Poland
+Alma	Canada
+PrzyborÃ³w	Poland
+Sebulu	Indonesia
+Ceres	Brazil
+Longqiao	China
+Chunhua	China
+Kiruna	Sweden
+Khulm	Afghanistan
+Mianduhe	China
+Castellon De La Plana/Castello De La Pla	Spain
+Lusong	Philippines
+Saint-Louis du Sud	Haiti
+Vyshneye Dolgoye	Russia
+Valtelheiro	Portugal
+Siedlce	Poland
+KouloÃºra	Greece
+Nanganumba	Indonesia
+Tabalong	Philippines
+Kaum	Indonesia
+Mumen	China
+Singaraja	Indonesia
+Stettler	Canada
+Phu Loc	Vietnam
+Kaset Sombun	Thailand
+MazaÅ„cowice	Poland
+Oyam	Uganda
+Opatowiec	Poland
+Al JumÅ«m	Saudi Arabia
+Nobeoka	Japan
+Dengzhou	China
+â€˜Ayn al Bayá¸‘Ä	Syria
+GraikochÃ³ri	Greece
+Kamloops	Canada
+Phultala	Bangladesh
+NÃ©a VrasnÃ¡	Greece
+Ebetsu	Japan
+Paris 16	France
+Talovyy	Russia
+Sanshui	China
+Yaita	Japan
+Parkent	Uzbekistan
+El Mirador	Mexico
+Tauca	Peru
+Thap Khlo	Thailand
+Koygorodok	Russia
+Munjul	Indonesia
+Shoushan	China
+Nogent-sur-Marne	France
+Kamen	Croatia
+LuboÅ„	Poland
+Ãgios AndrÃ©as	Greece
+Heitan	China
+Ochota	Poland
+Kilindoni	Tanzania
+Majingklak	Indonesia
+Limanowa	Poland
+Arroyo Seco	Argentina
+Kamen	Croatia
+Nyamanari	Gambia
+Montpellier	France
+Dahuaishu	China
+Marvdasht	Iran
+Dostoyevka	Russia
+Tatarsk	Russia
+Samdrup Jongkhar	Bhutan
+Guaraciaba do Norte	Brazil
+Nyzhni Petrivtsi	Ukraine
+Nizhniy Tsasuchey	Russia
+Libertador General San MartÃ­n	Argentina
+Awayan	Indonesia
+TafÃ­ del Valle	Argentina
+NovÃ½ MalÃ­n	Czech Republic
+MaÄkovec	Croatia
+Calgary	Canada
+Sumberan	Indonesia
+Sundbyberg	Sweden
+Ambar	Peru
+Yangji	China
+Caldas da Rainha	Portugal
+Bezerros	Brazil
+Brades	Montserrat
+ConceiÃ§Ã£o da Feira	Brazil
+PortariÃ¡	Greece
+BanÄ« á¸¨assÄn	Tunisia
+Bertioga	Brazil
+Jincun	China
+Balite	Philippines
+Sremska Mitrovica	Serbia
+Olafulihaa	Indonesia
+EckerÃ¶	Aland Islands
+Neepawa	Canada
+Obong	Philippines
+Rio MeÃ£o	Portugal
+Ikaalinen	Finland
+Columbus	United States
+Besko	Poland
+Solkan	Slovenia
+Kengyuan	China
+â€˜AÅŸÄ«rah al QiblÄ«yah	Palestinian Territory
+Cupira	Brazil
+Sorang	Kazakhstan
+Lewotukan	Indonesia
+Munjul	Indonesia
+Tuoshi	China
+MorazÃ¡n	Guatemala
+Maninihon	Philippines
+Huangjingba	China
+Al QÄrah	Saudi Arabia
+Guifeng	China
+Las Junturas	Argentina
+Orlu	Nigeria
+Montague	Canada
+NÃºi Sáº­p	Vietnam
+Kisela Voda	Macedonia
+Jiujiang	China
+Kanluran	Philippines
+Huaminglou	China
+Kolomyya	Ukraine
+Ngembak	Indonesia
+Chigan	China
+Sapareva Banya	Bulgaria
+Ã–rebro	Sweden
+Shangtian	China
+Aranas Sur	Philippines
+MichaÅ‚owo	Poland
+Tumbi	Tanzania
+Camlachie	Canada
+Al KarÄmah	Syria
+Bang Rak	Thailand
+Kuafeu	Indonesia
+Trzcianka	Poland
+Llaillay	Chile
